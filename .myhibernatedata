@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Tue Nov 14 21:07:50 CST 2017
+genVersionTag=false
+sessionFactoryName=.HibernateSessionFactory
+genAnnotations=false
+configFile=/getWifiUdpInfo/src/applicationContext.xml
+reStrategyClass=
+sessionFactoryId=sessionFactory
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
